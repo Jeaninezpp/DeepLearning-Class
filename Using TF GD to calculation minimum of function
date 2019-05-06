@@ -3,7 +3,6 @@ Use TensorFlow to define  function y = 1 - sin(x)/x,
 and get the corresponding x when y reaches the minimum value.
 '''
 
-
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
